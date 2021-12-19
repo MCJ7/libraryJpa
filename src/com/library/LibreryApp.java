@@ -1,15 +1,15 @@
 package com.library;
 
-import com.library.servicios.BookServices;
-import com.library.servicios.AuthorServices;
-import com.library.servicios.EditorialServices;
-import com.library.servicios.BorrowServices;
-import com.library.servicios.CustomerServices;
-import com.library.entidades.Author;
-import com.library.entidades.Book;
-import com.library.entidades.Customer;
-import com.library.entidades.Borrow;
-import com.library.entidades.Editorial;
+import com.library.services.BookServices;
+import com.library.services.AuthorServices;
+import com.library.services.EditorialServices;
+import com.library.services.BorrowServices;
+import com.library.services.CustomerServices;
+import com.library.entities.Author;
+import com.library.entities.Book;
+import com.library.entities.Customer;
+import com.library.entities.Borrow;
+import com.library.entities.Editorial;
 import java.awt.AWTException;
 import java.awt.Robot;
 import java.io.BufferedReader;
